@@ -1,0 +1,20 @@
+{
+  "name": "angular-gulp-browserify-boilerplate",
+  "description": "boilerplate attempt",
+  "main": "gulpfile.js",
+  "authors": [
+    "xalava"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angularjs"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
