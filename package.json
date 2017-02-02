@@ -1,6 +1,6 @@
 {
-  "name": "angular-gulp-browserify-boilerplate",
-  "version": "0.0.1",
+  "name": "angularjs-gulp-bootstrap-boilerplate",
+  "version": "0.0.2",
   "description": "boilerplate attempt",
   "main": "gulpfile.js",
   "scripts": {

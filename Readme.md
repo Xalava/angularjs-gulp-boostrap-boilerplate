@@ -1,4 +1,4 @@
-#Angularjs + gulp + browserify 2017 boilerplate
+#Angularjs + gulp + boostrap 2017 boilerplate
 
 
 ## Tutorial
